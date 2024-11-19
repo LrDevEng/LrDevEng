@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Lukas - Software Developer & Electrical Engineer
 
 Welcome to my GitHub account. Below you can find some facts about me.
 
